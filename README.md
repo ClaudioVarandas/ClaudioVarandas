@@ -53,11 +53,11 @@ My work is especially centered around **backend engineering**, **web development
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=php,python,js,dart&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,nodejs&theme=dark" alt="Languages" />
 
 ### Frameworks, Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=laravel,docker,git,linux,github,vscode&theme=dark" alt="Frameworks and tools" />
+<img src="https://skillicons.dev/icons?i=laravel,docker,git,linux,github,vscode,idea,phpstorm,webstorm&theme=dark" alt="Frameworks and tools" />
 
 ### Databases & Infrastructure
 

@@ -57,7 +57,7 @@ My work is especially centered around **backend engineering**, **web development
 
 ### Frameworks, Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=laravel,symfony,slim,vue,docker,git,linux,github,vscode,phpstorm&theme=dark" alt="Frameworks and tools" />
+<img src="https://skillicons.dev/icons?i=laravel,symfony,vue,alpinejs,tailwind,docker,git,linux,github,vscode,phpstorm&theme=dark" alt="Frameworks and tools" />
 
 <br />
 <br />

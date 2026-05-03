@@ -41,17 +41,6 @@ My work is especially centered around **backend engineering**, **web development
     <td width="33%" align="center">
       <h3>Developer Tooling</h3>
       <p>Automation, Docker environments, workflows, and tools that reduce operational friction.</p>
-    <td width="50%">
-      <h3>games-outbreak</h3>
-      <p>PHP project focused on game-related web functionality, structured as part of a practical software development portfolio.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Games-0f172a?style=flat-square" />
-        <img src="https://img.shields.io/badge/Web%20Project-0ea5e9?style=flat-square" />
-      </p>
-      <br />
-      <p><a href="https://github.com/ClaudioVarandas/games-outbreak">View repository →</a></p>
-    </td>
     </td>
   </tr>
 </table>
@@ -122,6 +111,17 @@ My work is especially centered around **backend engineering**, **web development
       </p>
       <br />
       <p><a href="https://github.com/ClaudioVarandas/worldcup-notifications">View repository →</a></p>
+    </td>
+    <td width="50%">
+      <h3>GameOutbrek</h3>
+      <p>Game-focused web project built with PHP, highlighting practical application development and structured backend implementation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Games-0f172a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web%20Project-0ea5e9?style=flat-square" />
+      </p>
+      <br />
+      <p><a href="https://github.com/ClaudioVarandas/GameOutbrek">View repository →</a></p>
     </td>
   </tr>
 </table>

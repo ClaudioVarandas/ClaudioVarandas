@@ -1,9 +1,172 @@
-<h1 align="center">Hi 👋, I'm Cláudio Varandas</h1>
-<h3 align="center">A passionate software developer from Portugal.</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/varandasclaudio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="varandasclaudio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cvarandas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cvarandas" height="30" width="40" /></a>
-<a href="https://instagram.com/iamclaudiovarandas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamclaudiovarandas" height="30" width="40" /></a>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Cl%C3%A1udio%20Varandas&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%26%20Web%20Development&descSize=16&descAlignY=66" alt="Cláudio Varandas header" />
+
+<p>
+  <a href="https://github.com/ClaudioVarandas">
+    <img src="https://img.shields.io/badge/GitHub-ClaudioVarandas-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/cvarandas/">
+    <img src="https://img.shields.io/badge/LinkedIn-cvarandas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Lisbon%2C%20Portugal-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lisbon, Portugal" />
 </p>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I’m a **Software Engineer based in Lisbon, Portugal**, focused on building reliable web applications, backend services, APIs, and practical digital products.
+
+I enjoy working across the full development lifecycle: understanding the problem, designing clean technical solutions, implementing maintainable systems, and improving them through iteration.
+
+My work is especially centered around **backend engineering**, **web development**, **automation**, **Docker-based workflows**, and increasingly, **AI-assisted search and retrieval systems**.
+
+---
+
+## 🧭 Professional Focus
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>Backend Engineering</h3>
+      <p>APIs, services, data flows, business logic, and maintainable system design.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Web Applications</h3>
+      <p>Practical, user-facing products built with clarity, performance, and reliability in mind.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Developer Tooling</h3>
+      <p>Automation, Docker environments, workflows, and tools that reduce operational friction.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=php,python,js,dart&theme=dark" alt="Languages" />
+
+### Frameworks, Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=laravel,docker,git,linux,github,vscode&theme=dark" alt="Frameworks and tools" />
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,nginx&theme=dark" alt="Databases and infrastructure" />
+
+</div>
+
+---
+
+## 🚀 Selected Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>BeachSearch-AI</h3>
+      <p>Educational RAG-based project for searching and retrieving information about beaches in Portugal.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Search-0ea5e9?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/ClaudioVarandas/BeachSearch-AI">View repository →</a></p>
+    </td>
+    <td width="50%">
+      <h3>VotoClaro</h3>
+      <p>Public web project with a civic-tech focus, built with PHP and Blade.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/ClaudioVarandas/votoclaro">View repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>worldcup-notifications</h3>
+      <p>Tool for fetching FIFA World Cup match data and sending event notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-0f172a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Notifications-0ea5e9?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/ClaudioVarandas/worldcup-notifications">View repository →</a></p>
+    </td>
+    <td width="50%">
+      <h3>bookkeeper</h3>
+      <p>Mobile bookkeeping application project built with Dart.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mobile-0f172a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Productivity-0ea5e9?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/ClaudioVarandas/bookkeeper">View repository →</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ClaudioVarandas&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&icon_color=38bdf8" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioVarandas&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=cbd5e1" alt="Top languages" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudioVarandas&theme=transparent" alt="GitHub profile summary" />
+
+</div>
+
+---
+
+## 💡 Engineering Values
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>Clarity</strong><br />Readable code, clear architecture, explicit decisions.</td>
+    <td width="25%" align="center"><strong>Reliability</strong><br />Software that behaves consistently and fails predictably.</td>
+    <td width="25%" align="center"><strong>Pragmatism</strong><br />Right-sized solutions over unnecessary complexity.</td>
+    <td width="25%" align="center"><strong>Iteration</strong><br />Build, measure, improve, repeat.</td>
+  </tr>
+</table>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+For professional connections, collaboration, or project discussions:
+
+<br />
+
+<a href="https://www.linkedin.com/in/cvarandas/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/ClaudioVarandas">
+  <img src="https://img.shields.io/badge/View%20GitHub%20Profile-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0f172a,50:1e3a8a,100:0ea5e9&section=footer" alt="Footer" />
+
+</div>

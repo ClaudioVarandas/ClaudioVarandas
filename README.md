@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/github-header.png" alt="Cláudio Varandas - Software Engineer | Backend & Web Development" width="100%" />
+
 <p>
   <a href="https://github.com/ClaudioVarandas">
     <img src="https://img.shields.io/badge/GitHub-ClaudioVarandas-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

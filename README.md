@@ -41,6 +41,17 @@ My work is especially centered around **backend engineering**, **web development
     <td width="33%" align="center">
       <h3>Developer Tooling</h3>
       <p>Automation, Docker environments, workflows, and tools that reduce operational friction.</p>
+    <td width="50%">
+      <h3>games-outbreak</h3>
+      <p>PHP project focused on game-related web functionality, structured as part of a practical software development portfolio.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Games-0f172a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web%20Project-0ea5e9?style=flat-square" />
+      </p>
+      <br />
+      <p><a href="https://github.com/ClaudioVarandas/games-outbreak">View repository →</a></p>
+    </td>
     </td>
   </tr>
 </table>
@@ -83,7 +94,9 @@ My work is especially centered around **backend engineering**, **web development
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square" />
         <img src="https://img.shields.io/badge/Semantic%20Search-0ea5e9?style=flat-square" />
-        <img src="https://img.shields.io/b
+        <img src="https://img.shields.io/badge/AI%20Retrieval-1e3a8a?style=flat-square" />
+      </p>
+      <br />
       <p><a href="https://github.com/ClaudioVarandas/BeachSearch-AI">View repository →</a></p>
     </td>
     <td width="50%">
@@ -94,6 +107,7 @@ My work is especially centered around **backend engineering**, **web development
         <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square" />
       </p>
+      <br />
       <p><a href="https://github.com/ClaudioVarandas/votoclaro">View repository →</a></p>
     </td>
   </tr>
@@ -106,17 +120,8 @@ My work is especially centered around **backend engineering**, **web development
         <img src="https://img.shields.io/badge/Automation-0f172a?style=flat-square" />
         <img src="https://img.shields.io/badge/Notifications-0ea5e9?style=flat-square" />
       </p>
+      <br />
       <p><a href="https://github.com/ClaudioVarandas/worldcup-notifications">View repository →</a></p>
-    </td>
-    <td width="50%">
-      <h3>bookkeeper</h3>
-      <p>Mobile bookkeeping application project built with Dart.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mobile-0f172a?style=flat-square" />
-        <img src="https://img.shields.io/badge/Productivity-0ea5e9?style=flat-square" />
-      </p>
-      <p><a href="https://github.com/ClaudioVarandas/bookkeeper">View repository →</a></p>
     </td>
   </tr>
 </table>

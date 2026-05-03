@@ -118,21 +118,6 @@ My work is especially centered around **backend engineering**, **web development
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ClaudioVarandas&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&icon_color=38bdf8" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioVarandas&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=cbd5e1" alt="Top languages" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudioVarandas&theme=transparent" alt="GitHub profile summary" />
-
-</div>
-
----
-
 ## 💡 Engineering Values
 
 <table>

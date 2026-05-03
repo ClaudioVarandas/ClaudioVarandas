@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-header.png" alt="Cláudio Varandas - Software Engineer | Backend & Web Development" width="100%" />
+<img src="./cv_about_header.png" alt="Cláudio Varandas - Software Engineer | Backend & Web Development" width="100%" />
 
 <p>
   <a href="https://github.com/ClaudioVarandas">

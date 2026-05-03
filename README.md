@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Cl%C3%A1udio%20Varandas&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%26%20Web%20Development&descSize=16&descAlignY=66" alt="Cláudio Varandas header" />
-
 <p>
   <a href="https://github.com/ClaudioVarandas">
     <img src="https://img.shields.io/badge/GitHub-ClaudioVarandas-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

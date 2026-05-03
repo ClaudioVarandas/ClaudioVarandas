@@ -57,7 +57,12 @@ My work is especially centered around **backend engineering**, **web development
 
 ### Frameworks, Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=laravel,docker,git,linux,github,vscode,idea,phpstorm,webstorm&theme=dark" alt="Frameworks and tools" />
+<img src="https://skillicons.dev/icons?i=laravel,docker,git,linux,github,vscode,phpstorm&theme=dark" alt="Frameworks and tools" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
 
 ### Databases & Infrastructure
 
@@ -73,12 +78,12 @@ My work is especially centered around **backend engineering**, **web development
   <tr>
     <td width="50%">
       <h3>BeachSearch-AI</h3>
-      <p>Educational RAG-based project for searching and retrieving information about beaches in Portugal.</p>
+      <p>RAG-focused AI search project for retrieving contextual information about beaches in Portugal. The project explores document ingestion, semantic search, retrieval pipelines, and answer generation over domain-specific data.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI%20Search-0ea5e9?style=flat-square" />
-      </p>
+        <img src="https://img.shields.io/badge/Semantic%20Search-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/b
       <p><a href="https://github.com/ClaudioVarandas/BeachSearch-AI">View repository →</a></p>
     </td>
     <td width="50%">

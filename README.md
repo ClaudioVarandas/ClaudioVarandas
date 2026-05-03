@@ -113,7 +113,7 @@ My work is especially centered around **backend engineering**, **web development
       <p><a href="https://github.com/ClaudioVarandas/worldcup-notifications">View repository →</a></p>
     </td>
     <td width="50%">
-      <h3>GameOutbrek</h3>
+      <h3>GameOutbreak</h3>
       <p>Game-focused web project built with PHP, highlighting practical application development and structured backend implementation.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
